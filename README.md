@@ -1,6 +1,6 @@
 # wox-plugin-qdaily
 好奇心日报 wox插件 <br />
 
-![example](http://i4.piimg.com/b1d163fa8996a874.png)
+![example](http://i.imgur.com/krQu2ns.png)
 
 MIT Licenced

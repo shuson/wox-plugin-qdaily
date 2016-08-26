@@ -1,0 +1,12 @@
+{
+  "ID":"d8cd57803sf513e5cx7e851d22890xe3",
+  "ActionKeyword":"hqd",
+  "Name":"QDaily",
+  "Description":"Q Daily 好奇心日报",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-qdaily",
+  "IcoPath": "img\\q.png",
+  "ExecuteFileName":"qDaily.py"
+}
